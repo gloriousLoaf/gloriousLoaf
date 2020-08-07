@@ -1,16 +1,23 @@
-### Hi there 👋
+## David Metcalf, Full-Stack Developer
 
-<!--
-**gloriousLoaf/gloriousLoaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### A little bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 I’m currently working on leveling-up my skills in the MERN stack.
+* 🌱 I’m currently learning React and PWAs.
+* 🤔 I’m looking for help with the finer points of CSS.
+* 💬 Ask me about algorithms, because JS is my jam!
+* 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/david-metcalf-codes) or Tweet [@davidmcodes](https://twitter.com/davidmcodes)
+* 😄 Pronouns: He / Him
+* ⚡ Fun fact: I was a sommelier in my previous career.
+
+
+#### What else do I do?
+
+* Collaborating with fun, motivated people to create useful, beautiful products.
+* Reading nonfiction like history, anthropology, psychology and biographies.
+* Getting completely lost in Wikipedia clickholes.
+* Vegan cooking and great wine on a budget.
+* Exercising (kind of).
+
+###### Thanks for stopping by!
