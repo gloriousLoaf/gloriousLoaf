@@ -12,7 +12,7 @@
 * ⚡ Fun fact: I was a sommelier in my previous career.
 
 
-#### What else do I do?
+#### What else do I enjoy?
 
 * Collaborating with fun, motivated people to create useful, beautiful products.
 * Reading nonfiction like history, anthropology, psychology and biographies.
