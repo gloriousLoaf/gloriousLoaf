@@ -7,7 +7,8 @@
 * 🌱 I’m currently learning React and PWAs.
 * 🤔 I’m looking for help with the finer points of CSS.
 * 💬 Ask me about algorithms, because JS is my jam!
-* 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/david-metcalf-codes) or Tweet [@davidmcodes](https://twitter.com/davidmcodes)
+* 🤳 Social: [LinkedIn](https://www.linkedin.com/in/david-metcalf-codes), Tweet [@davidmcodes](https://twitter.com/davidmcodes)
+* 📫 Reach me: [hello@metcalf.dev](mailto:hello@metcalf.dev)
 * 😄 Pronouns: He / Him
 * ⚡ Fun fact: I was a sommelier in my previous career.
 
