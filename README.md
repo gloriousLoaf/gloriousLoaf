@@ -9,6 +9,7 @@
 * 🌱 I’m currently learning React and PWAs.
 * 🤔 I’m looking for help with the finer points of CSS.
 * 💬 Ask me about algorithms, because JS is my jam!
+* 🌎 Check out my site: [metcalf.dev](https://metcalf.dev)
 * 🤳 Social: [LinkedIn](https://www.linkedin.com/in/david-metcalf-codes), Tweet [@davidmcodes](https://twitter.com/davidmcodes)
 * 👨‍💻 All of my projects are available at [https://github.com/gloriousLoaf](https://github.com/gloriousLoaf)
 * 📫 Reach me: [hello@metcalf.dev](mailto:hello@metcalf.dev)
@@ -22,6 +23,7 @@
 <a href="https://linkedin.com/in/david-metcalf-codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="david-metcalf-codes" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/12894082" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12894082" height="30" width="30" /></a>
 <a href="https://medium.com/@davidmetcalfcodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@davidmetcalfcodes" height="30" width="30" /></a>
+<a href="https://metcalf.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/thecreation/web-icons/91694c93358d00ea85e9cd6531c2a5eaabfd63f9/src/svg/link-intact.svg" alt="@davidmetcalfcodes" height="30" width="30" /></a>
 </p>
 
 ***
