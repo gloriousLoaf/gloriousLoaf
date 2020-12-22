@@ -6,9 +6,8 @@
 #### A little bit about me:
 
 * 🔭 I’m currently working on leveling-up my skills in the MERN stack.
-* 🌱 I’m currently learning React and PWAs.
-* 🤔 I’m looking for help with the finer points of CSS.
-* 💬 Ask me about algorithms, because JS is my jam!
+* 🐍 I’m currently learning Python.
+* 🤔 I’m expanding my React & CSS skills.
 * 🌎 Check out my site: [metcalf.dev](https://metcalf.dev)
 * 🤳 Social: [LinkedIn](https://www.linkedin.com/in/david-codes), Tweet [@davidmcodes](https://twitter.com/davidmcodes)
 * 👨‍💻 All of my projects are available at [https://github.com/gloriousLoaf](https://github.com/gloriousLoaf)
