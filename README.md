@@ -6,7 +6,7 @@
 #### A little bit about me:
 
 * 🔭 I’m currently working on leveling-up my skills in the MERN stack.
-* 🐍 I’m currently learning Python.
+* 🐍 I’m currently learning Python & TypeScript.
 * 🤔 I’m expanding my React & CSS skills.
 * 🌎 Check out my site: [metcalf.dev](https://metcalf.dev)
 * 🤳 Social: [LinkedIn](https://www.linkedin.com/in/david-codes), Tweet [@davidmcodes](https://twitter.com/davidmcodes)
