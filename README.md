@@ -12,7 +12,7 @@
 * 🤳 Social: [LinkedIn](https://www.linkedin.com/in/david-codes), Tweet [@davidmcodes](https://twitter.com/davidmcodes)
 * 👨‍💻 All of my projects are available at [https://github.com/gloriousLoaf](https://github.com/gloriousLoaf)
 * 📫 Reach me: [hello@metcalf.dev](mailto:hello@metcalf.dev)
-* 😄 Pronouns: He / Him
+* 🦄 Pronouns: He / Him
 * ⚡ Fun fact: I was a sommelier in my previous career.
 
 
