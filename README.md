@@ -5,20 +5,20 @@
 
 #### A little bit about me:
 
-- 🔭 I’m currently working with a machine learning startup:
+- 🔭 &nbsp; I’m currently working with a machine learning startup:
   [MLtwist.com](https://mltwist.com)
-- 👨‍🏫 I also tutor web dev boot campers for
+- 👨‍🏫 &nbsp; I also tutor web dev boot campers for
   [Trilogy Education](https://www.trilogyed.com/programs/)
-- 🏗 MERN is my primary stack, but I'm always growing.
-- 👨‍💻 Learning Eleventy, TypeScript and Next, plus exploring Python.
-- 🌎 Check out my site: [metcalf.dev](https://metcalf.dev)
-- 📝 Find helpful write ups and follow my journey on
+- 🏗 &nbsp; MERN is my primary stack, but I'm always growing.
+- 👨‍💻 &nbsp; Learning Eleventy, TypeScript and Next, plus exploring Python.
+- 🌎 &nbsp; Check out my site: [metcalf.dev](https://metcalf.dev)
+- 📝 &nbsp; Find helpful write ups and follow my journey on
   [DEV](https://dev.to/gloriousloaf)
-- 🤳 Social: [LinkedIn](https://www.linkedin.com/in/david-codes),
+- 🤳 &nbsp; Social: [LinkedIn](https://www.linkedin.com/in/david-codes),
   [Tweet @davidmcodes](https://twitter.com/davidmcodes)
-- 📫 Email: [hello@metcalf.dev](mailto:hello@metcalf.dev)
-- 🦄 Pronouns: He / Him
-- 🍷 Fun fact: I was a sommelier in my previous career.
+- 📫 &nbsp; Email: [hello@metcalf.dev](mailto:hello@metcalf.dev)
+- 🦄 &nbsp; Pronouns: He / Him
+- 🍷 &nbsp; Fun fact: I was a sommelier in my previous career.
 
 ---
 
