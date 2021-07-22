@@ -5,17 +5,17 @@
 
 #### A little bit about me:
 
-- 🔭 &nbsp; I’m currently working with a machine learning startup:
+- 🔭 &nbsp; Associate Software Engineer at
+  [4insite](https://4insite.com/)
+- 🔭 &nbsp; Also currently working with a machine learning startup:
   [MLtwist.com](https://mltwist.com)
-- 👨‍🏫 &nbsp; I also tutor web dev boot campers for
-  [Trilogy Education](https://www.trilogyed.com/programs/)
 - 🏗 &nbsp; MERN is my primary stack, but I'm always growing.
 - 👨‍💻 &nbsp; Learning Eleventy, TypeScript and Next, plus exploring Python.
 - 🌎 &nbsp; Check out my site: [metcalf.dev](https://metcalf.dev)
 - 📝 &nbsp; Find helpful write ups and follow my journey on
   [DEV](https://dev.to/gloriousloaf)
 - 🤳 &nbsp; Social: [LinkedIn](https://www.linkedin.com/in/david-codes),
-  [Tweet @davidmcodes](https://twitter.com/davidmcodes)
+  [Tweet @davidmcodes](https://twitter.com/gloriousLoaf)
 - 📫 &nbsp; Email: [hello@metcalf.dev](mailto:hello@metcalf.dev)
 - 🦄 &nbsp; Pronouns: He / Him
 - 🍷 &nbsp; Fun fact: I was a sommelier in my previous career.
