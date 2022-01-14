@@ -14,8 +14,7 @@
 - 🌎 &nbsp; Check out my site: [metcalf.dev](https://metcalf.dev)
 - 📝 &nbsp; Find helpful write ups and follow my journey on
   [DEV](https://dev.to/gloriousloaf)
-- 🤳 &nbsp; Social: [LinkedIn](https://www.linkedin.com/in/david-codes),
-  [Tweet @davidmcodes](https://twitter.com/gloriousLoaf)
+- 🤳 &nbsp; Network: [LinkedIn](https://www.linkedin.com/in/david-codes)
 - 📫 &nbsp; Email: [hello@metcalf.dev](mailto:hello@metcalf.dev)
 - 🦄 &nbsp; Pronouns: He / Him
 - 🍷 &nbsp; Fun fact: I was a sommelier in my previous career.
