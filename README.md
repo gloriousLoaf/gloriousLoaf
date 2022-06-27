@@ -7,8 +7,6 @@
 
 - 🔭 &nbsp; Associate Software Engineer at
   [4insite](https://4insite.com/)
-- 🔭 &nbsp; Also currently working with a machine learning startup:
-  [MLtwist.com](https://mltwist.com)
 - 🏗 &nbsp; MERN is my primary stack, but I'm always growing.
 - 👨‍💻 &nbsp; Learning Eleventy, TypeScript and Next, plus exploring Python.
 - 🌎 &nbsp; Check out my site: [metcalf.dev](https://metcalf.dev)
