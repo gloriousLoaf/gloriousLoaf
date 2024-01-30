@@ -19,10 +19,6 @@
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gloriousloaf&show_icons=true" alt="gloriousloaf's GitHub Stats" /></p>
-
----
-
 #### What else do I enjoy?
 
 - Collaborating with fun, motivated people to create useful, beautiful products.
