@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm David Metcalf 👋</h1>
-<h3 align="center">Software Engineer, in Sacramento CA</h3>
+<h1 align="center">David Metcalf</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gloriousLoaf" alt="gloriousLoaf" /> </p>
 
