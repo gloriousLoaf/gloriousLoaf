@@ -8,7 +8,7 @@
 - 🏗 &nbsp; TypeScript, Python, SQL, NoSQL
 - 🌎 &nbsp; Check out my site: [metcalf.dev](https://metcalf.dev)
 - 🤳 &nbsp; Network: [LinkedIn](https://www.linkedin.com/in/david-codes)
-- 📫 &nbsp; Email: [hello@metcalf.dev](mailto:hello@metcalf.dev)
+- 📫 &nbsp; Email: hello at metcalf.dev
 - 🦄 &nbsp; Pronouns: He / Him
 - 🍷 &nbsp; Fun fact: I was a sommelier in my previous career.
 
