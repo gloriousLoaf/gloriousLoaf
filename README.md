@@ -17,7 +17,7 @@
 #### What else do I enjoy?
 
 - Collaborating with fun, motivated people to create useful, beautiful products.
-- Nonfiction books, such as history, anthropology, psychology and biographies.
+- Nonfiction books, such as philosophy, history, anthropology, psychology and biographies.
 - Getting completely lost in Wikipedia clickholes.
 - Vegan cooking and great wine on a budget.
 - Exercising (kind of).
